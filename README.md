@@ -1,6 +1,8 @@
 # Chrome blank new tab page
 Transform chrome new tab page to a blank one without bookmarks.
 
+![alt tag](./screenshot.png)
+
 ## Usage
 1. Clone this repository
 2. In Chrome  go to "chrome://extensions/", enable developer mode
